@@ -1,0 +1,11 @@
+{
+    "required": true,
+    "package": "user11681.lowend.asm.mixin",
+    "compatibilityLevel": "JAVA_8",
+    "client": [
+        "NativeImageMixin"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "schemaVersion": 1,
+    "id": "lowend",
+    "version": "0.0.0",
+    "name": "low end",
+    "description": "a mod that changes all textures to 1x1 textures",
+    "authors": [
+        "user11681"
+    ],
+    "contact": {
+        "sources": "https://github.com/user11681/lowend"
+    },
+    "license": "GNU GPL v3.0",
+    "icon": "assets/lowend/icon.png",
+    "environment": "client",
+    "mixins": [
+        "lowend.mixins.json"
+    ],
+    "accessWidener": "lowend.accesswidener",
+    "depends": {
+        "fabricloader": "*"
+    }
+}
