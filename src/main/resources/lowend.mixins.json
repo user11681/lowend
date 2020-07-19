@@ -1,9 +1,10 @@
 {
     "required": true,
-    "package": "user11681.lowend.asm.mixin",
+    "package": "user11681.lowend.mixin",
     "compatibilityLevel": "JAVA_8",
     "client": [
-        "NativeImageMixin"
+        "NativeImageMixin",
+        "VideoOptionsScreenMixin"
     ],
     "injectors": {
         "defaultRequire": 1

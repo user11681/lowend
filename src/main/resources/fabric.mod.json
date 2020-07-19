@@ -16,7 +16,6 @@
     "mixins": [
         "lowend.mixins.json"
     ],
-    "accessWidener": "lowend.accesswidener",
     "depends": {
         "fabricloader": "*"
     }

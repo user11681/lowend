@@ -1,0 +1,4 @@
+{
+    "options.lowend.average_type": "Texture Average Type",
+    "options.lowend.leave_transparency": "Ignore Transparency"
+}

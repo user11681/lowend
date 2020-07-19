@@ -1,9 +1,6 @@
 version = "0.0.0"
 
-minecraft {
-    accessWidener "src/main/resources/lowend.accesswidener"
-}
-
 dependencies {
     modApi include("${project.apiBase}")
+    modApi include("${project.apiResourceLoader}")
 }
